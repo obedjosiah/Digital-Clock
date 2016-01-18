@@ -1,0 +1,244 @@
+
+#lagosFrame{
+        width:520px;
+        height:250px;
+        background-color:red;
+        }
+        #lagHour{
+    	width:60px;
+    	height:60px;
+    	background-color:#7ED4ED;
+    	float:left;
+    	margin:20px 0px 40px 20px;
+    	font-size:3em;
+    	text-align: center;	
+    	}
+
+    	#lagMinute{
+    	width:60px;
+    	height:60px;
+    	background-color:#7ED4ED;
+    	float:left;
+    	margin:20px 0px 40px 0px;
+    	font-size:300%;	
+    	text-align: center;
+    	}
+
+    	#lagSecond{
+    	width:60px;
+    	height:60px;
+    	background-color:#7ED4ED;
+    	float:left;
+    	margin:20px 0px 40px 0px;	
+    	font-size:48px;
+    	text-align: center;
+    	}
+
+    	#lagMeridiem{
+    	width:75px;
+    	height:60px;
+    	background-color:#7ED4ED;
+    	float:left;
+    	margin:20px 20px 40px 20px;	
+    	font-size:48px;
+    	text-align: center;
+    	}
+
+    	#lagDay{
+        width:110px;
+        height:60px;
+        background-color:#7ED4ED;
+        float:left;
+        margin:20px 10px 40px 0px;
+        font-size:48px;
+        text-align: center;
+        }
+
+#sydneyFrame{
+        width:520px;
+        height:250px;
+        background-color:blue;
+        }
+
+        #sydHour{
+        width:60px;
+        height:60px;
+        background-color:#7ED4ED;
+        float:left;
+        margin:20px 0px 40px 20px;
+        font-size:3em;
+        text-align: center; 
+        }
+
+        #sydMinute{
+        width:60px;
+        height:60px;
+        background-color:#7ED4ED;
+        float:left;
+        margin:20px 0px 40px 0px;
+        font-size:300%; 
+        text-align: center;
+        }
+
+        #sydSecond{
+        width:60px;
+        height:60px;
+        background-color:#7ED4ED;
+        float:left;
+        margin:20px 0px 40px 0px; 
+        font-size:48px;
+        text-align: center;
+        }
+
+        #sydMeridiem{
+        width:75px;
+        height:60px;
+        background-color:#7ED4ED;
+        float:left;
+        margin:20px 20px 40px 20px; 
+        font-size:48px;
+        text-align: center;
+        }
+
+        #sydDay{
+        width:110px;
+        height:60px;
+        background-color:#7ED4ED;
+        float:left;
+        margin:20px 10px 40px 0px;
+        font-size:48px;
+        text-align: center;
+        }
+
+#newYorkFrame{
+        width:520px;
+        height:250px;
+        background-color:green;
+        }
+
+        #nycHour{
+        width:60px;
+        height:60px;
+        background-color:#7ED4ED;
+        float:left;
+        margin:20px 0px 40px 20px;
+        font-size:3em;
+        text-align: center; 
+        }
+
+        #nycMinute{
+        width:60px;
+        height:60px;
+        background-color:#7ED4ED;
+        float:left;
+        margin:20px 0px 40px 0px;
+        font-size:300%; 
+        text-align: center;
+        }
+
+        #nycSecond{
+        width:60px;
+        height:60px;
+        background-color:#7ED4ED;
+        float:left;
+        margin:20px 0px 40px 0px; 
+        font-size:48px;
+        text-align: center;
+        }
+
+        #nycMeridiem{
+        width:75px;
+        height:60px;
+        background-color:#7ED4ED;
+        float:left;
+        margin:20px 20px 40px 20px; 
+        font-size:48px;
+        text-align: center;
+        }
+       
+        #nycDay{
+        width:110px;
+        height:60px;
+        background-color:#7ED4ED;
+        float:left;
+        margin:20px 10px 40px 0px;
+        font-size:48px;
+        text-align: center;
+        }
+
+ #londonFrame{
+        width:520px;
+        height:250px;
+        background-color:purple;
+        }
+
+        #lonHour{
+        width:60px;
+        height:60px;
+        background-color:#7ED4ED;
+        float:left;
+        margin:20px 0px 40px 20px;
+        font-size:3em;
+        text-align: center; 
+        }
+
+        #lonMinute{
+        width:60px;
+        height:60px;
+        background-color:#7ED4ED;
+        float:left;
+        margin:20px 0px 40px 0px;
+        font-size:300%; 
+        text-align: center;
+        }
+
+        #lonSecond{
+        width:60px;
+        height:60px;
+        background-color:#7ED4ED;
+        float:left;
+        margin:20px 0px 40px 0px; 
+        font-size:48px;
+        text-align: center;
+        }
+
+        #lonMeridiem{
+        width:75px;
+        height:60px;
+        background-color:#7ED4ED;
+        float:left;
+        margin:20px 20px 40px 20px; 
+        font-size:48px;
+        text-align: center;
+        }
+
+        #lonDay{
+        width:110px;
+        height:60px;
+        background-color:#7ED4ED;
+        float:left;
+        margin:20px 10px 40px 0px;
+        font-size:48px;
+        text-align: center;
+        }
+
+        .doubleColon{
+        width:40px;
+        height:60px;   
+        font-size:3em;
+        float:left;
+        margin:20px 0px 40px 0px;
+        text-align: center;
+        }
+
+        p{
+        text-align: center;
+        font-family: "Comic Sans MS", cursive, sans-serif;
+        color:#FFFFCC;
+        font-size: 250%;
+        }
+
+
+
+
+      
